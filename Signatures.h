@@ -1,10 +1,9 @@
-```C++
 Farlight 84 Signatures [ Found by Me :)  ]
  
 GWorld  : 48 8B 1D ? ? ? ? 48 85 DB 74 ? 41 B0 (aka Uworld)
 GNames  : 48 8D 0D ? ? ? ? E8 ? ? ? ? 48 8B D0 C6 05
 GObjects: 48 8B 05 ? ? ? ? ? ? ? ? ? ? ? ? EB ? 48 8B C6 81 48 ? ? ? ? ? 48 8D 4D ? FF 15
-``````C++
+ 
 [ Found by LuaInterpreter :) ]
 
 ProcessEvent Hook    : FF 90 30 03 00 00
@@ -18,5 +17,3 @@ DeltaTime            : F3 0F 11 15 ? ? ? ? F3 0F 10 05 ? ? ? ? F3 0F 11 05
 OneFrameThreadLag    : 48 8D 15 ? ? ? ? 41 B0 01 FF 50 50
 MemoryManagerInstance: 48 8B 0D ? ? ? ? 48 85 C9 74 ? 48 8B 01
 SecurityCookie       : 48 8B 05 ? ? ? ? 48 33 C4 48 89 85 ? ? ? ?
-
-```
