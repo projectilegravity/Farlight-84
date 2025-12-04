@@ -1,5 +1,7 @@
 Farlight 84 Signatures [ Found by Me :)  ]
- 
+
+THIS FILE IS NOT AUTO GENERATED! SIGNATURES MIGHT DIE!
+
 GWorld  : 48 8B 1D ? ? ? ? 48 85 DB 74 ? 41 B0 (aka Uworld)
 GNames  : 48 8D 0D ? ? ? ? E8 ? ? ? ? 48 8B D0 C6 05
 GObjects: 48 8B 05 ? ? ? ? ? ? ? ? ? ? ? ? EB ? 48 8B C6 81 48 ? ? ? ? ? 48 8D 4D ? FF 15
