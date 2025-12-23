@@ -1,5 +1,5 @@
 # Offsets
 
-**Game: Solarland Version: 4.25.3-1059089+++Singularity+v2.8 Generated at: 2025-12-17 18:11:39.425**
+**Game: DeadByDaylight Version: 5.4.4-2966730+++DeadByDaylight+Omelet_HF2 Generated at: 2025-12-23 15:12:21.415**
 
-**Counts: Classes: 8156, Structs: 4966, Functions: 3143, Enums: 2431**
+**Counts: Classes: 10693, Structs: 6237, Functions: 3909, Enums: 2413**
